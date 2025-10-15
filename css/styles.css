@@ -1,0 +1,111 @@
+#main {
+    background-image: url(https://sun9-27.userapi.com/s/v1/ig2/2fUUyocO1WWSyvrziuZ5NXsOe-xSxB9KphL8M8La08i6PubCU6SxxnMnd-NgTGZ-FbZvdi-E3blmk-Wdf9VRUzn8.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,880x880&from=bu&cs=880x0);
+}
+
+#warning_tab {
+    border: 5px dashed #666677;
+    border-radius: 20px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    background-color: #BBBBCC;
+    color: #666677;
+    padding: 10px;
+}
+
+#containers {
+    margin: auto;
+    background-color: #BBBBCC;
+    border-radius: 20px;
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    gap: 10px;
+    padding: 10px;
+}
+
+.containers {
+    background-color: #BBBBCC;
+    border-radius: 20px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.left_inf_summary {
+    list-style: none;
+    -webkit-appearance: none;
+    appearance: none;
+    cursor: pointer;
+}
+
+#span_1 {
+    border: 5px dashed #666677; 
+    border-radius: 20px; 
+    padding: 5px 0px; 
+    color: #666677; 
+    text-align: center;
+}
+
+.h2_summary {
+    background-color: #666677;
+    padding: 5px 0;
+    border-radius: 20px;
+    margin: 0 15px;
+    text-align: center;
+    color: #BBBBCC;
+}
+
+.h3_summary {
+    overflow: auto; 
+    height: 350px; 
+    margin: 0; 
+    color: #666677;
+}
+
+#char_name {
+    background-color: #666677; 
+    padding: 10px 0; 
+    border-radius: 20px; 
+    margin: 0; 
+    text-align: center; 
+    color: #BBBBCC;
+}
+
+#profile_image {
+    width: 50%; 
+    border-radius: 50%;
+}
+
+.tab_info {
+    margin: auto; 
+    border: 0; 
+    color: #666677;
+}
+
+.td_inf_r {
+    width: 210px; 
+    text-align: right;
+}
+
+.td_inf_l {
+    width: 210px;
+    text-align: left;
+}
+
+footer {
+    margin: auto; 
+    background-color: #BBBBCC; 
+    border-radius: 20px; 
+    width: 1000px; 
+    padding: 10px 0px; 
+    text-align: center;
+}
+
+.logo_pic {
+    width: 3%;
+    border-radius: 20px;
+    margin: 0px 5px;
+}
