@@ -61,7 +61,7 @@
 .h3_summary {
     overflow: auto; 
     height: 350px; 
-    margin: 0; 
+    margin: 0 15px; 
     color: #666677;
 }
 
